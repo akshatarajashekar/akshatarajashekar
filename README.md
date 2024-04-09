@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/sketching
 - 🌱 I’m currently learning vuex, react
 - 💞️ I’m looking to collaborate on UI projects
-- 📫 How to reach me akshatarajahsekar@protonmail.com
+- 📫 How to reach me akshatarajahshekar@protonmail.com
 
 <!---
 akshatarajashekar/akshatarajashekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

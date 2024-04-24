@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatarajashekar
-- 👀 I’m interested in coding/sketching
-- 🌱 I’m currently learning vuex, react
+- 👀 I’m interested in coding / sketching
+- 🌱 I’m currently learning angular, vuex, react
 - 💞️ I’m looking to collaborate on UI projects
 - 📫 How to reach me akshatarajashekar@protonmail.com
 
